@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BayoGabriel
-- 👀 I’m interested in   web3 development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to being a full stack Web3 dev before my 22nd birthday in November or at least really close. 
+- 👀 I am a frontend developer with Vanilla JS and react experience.
+- 🌱 I’m currently working on my backend development skills.
+- 💞️ I’m looking forward to making meaningful connections with fellow devs. 
 - 📫 You can reach out to me on internship positions, I would really love that and it would help my journey really.
 - I will be posting my progress on <a href="https://twitter.com/bayogabr?t=PrWNbLh8kyTWqS8X5NLOlw&s=08">Twitter </a>
 
