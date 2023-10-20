@@ -2,7 +2,7 @@
 
 # Hi there, I'm Gabriel Bayode! 👋
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2217.jpg?w=740&t=st=1697814885~exp=1697815485~hmac=af9d6b7cb4f46fe17e210cb7c9e4c6596056d7b27f4306f629bab1f074263bb3" alt="Illustration" width="200">
+  <img src="https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2217.jpg?w=740&t=st=1697814885~exp=1697815485~hmac=af9d6b7cb4f46fe17e210cb7c9e4c6596056d7b27f4306f629bab1f074263bb3" alt="Illustration" width="100%" height="400px">
 </div>
 I'm a passionate MERN (MongoDB, Express.js, React, Node.js) developer who loves creating web applications and solving problems with elegant code.
 
