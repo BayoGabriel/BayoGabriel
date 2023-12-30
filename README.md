@@ -18,7 +18,7 @@ Hello! 👋 I'm Bayode Gabriel, a fuul-stack developer with 2 years of web devel
 Explore my portfolio at [bayogabr.vercel.app](https://bayogabr.vercel.app) to discover some of my projects and see what I've been working on.
 
 ## Let's Connect
-- LinkedIn: [linkedin.com/in/bayodegabriel](https://www.linkedin.com/in/bayogabriel/)
+- LinkedIn: [https://www.linkedin.com/in/bayogabr/](https://www.linkedin.com/in/bayogabr/)
 - Twitter: [@bayogabr](https://twitter.com/bayogabr)
 
 Feel free to reach out for collaboration, discussions, or to share ideas. Let's code and create together! 🚀
