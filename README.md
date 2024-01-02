@@ -1,6 +1,6 @@
 # Bayode Gabriel
 
-Hello! 👋 I'm Bayode Gabriel, a fuul-stack developer with 2 years of web development experience. I love transforming ideas into interactive and scalable applications.
+Hello! 👋 I'm Bayode Gabriel, a full-stack developer with 2 years of web development experience. I love transforming ideas into interactive and scalable applications.
 
 ## Skills
 - HTML5, CSS3
