@@ -15,7 +15,7 @@ Hello! 👋 I'm Bayode Gabriel, a full-stack developer with 2 years of web devel
 - RESTful API design
 
 ## Portfolio
-Explore my portfolio at [bayogabr.vercel.app](https://bayogabr.vercel.app) to discover some of my projects and see what I've been working on.
+Explore my portfolio at [bayogabriell.vercel.app](https://bayogabriell.vercel.app) to discover some of my projects and see what I've been working on.
 
 ## Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/bayogabr/](https://www.linkedin.com/in/bayogabr/)
