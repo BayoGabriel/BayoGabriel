@@ -5,9 +5,11 @@ Hello! 👋 I'm Bayode Gabriel, a full-stack developer with 2 years of web devel
 ## Skills
 - HTML5, CSS3
 - Bootstrap
+- Tailwindcss
 - JavaScript (ES6+)
 - Python
 - React
+- NaxtJs
 - MongoDB
 - Express.js
 - Node.js
