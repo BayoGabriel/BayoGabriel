@@ -9,7 +9,7 @@ Hello! 👋 I'm Bayode Gabriel, a full-stack developer with 2 years of web devel
 - JavaScript (ES6+)
 - Python
 - React
-- NaxtJs
+- NextJs
 - MongoDB
 - Express.js
 - Node.js
